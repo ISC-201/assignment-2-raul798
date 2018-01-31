@@ -10,7 +10,7 @@
   - [ ] Overload _operator+_
   - [ ] Overload _operator-_
   - [ ] Overload _operator*_
-  - [ ] Overload _operator*_
+  - [ ] Overload _operator/_
   - [ ] Overload _operator==_
   - [ ] Overload _operator!=_  
 - [ ] Create `Vector3` class
@@ -21,7 +21,7 @@
   - [ ] Overload _operator+_
   - [ ] Overload _operator-_
   - [ ] Overload _operator*_
-  - [ ] Overload _operator*_
+  - [ ] Overload _operator/_
   - [ ] Overload _operator==_
   - [ ] Overload _operator!=_  
 - [ ] Respond to input
